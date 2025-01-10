@@ -1,2 +1,4 @@
 red restaurants
 TEST
+test
+We have added some changes to our mapfile
